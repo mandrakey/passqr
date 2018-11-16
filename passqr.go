@@ -1,3 +1,7 @@
+/* Copyright (C) 2018 Maurice Bleuel <mandrakey@bleuelmedia.com>
+*  Licensed under the simplified BSD license. See COPYING for details.
+*/
+
 package main
 
 import (
